@@ -1,11 +1,11 @@
-About r-editdata
-================
+About r-editdata-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-editdata-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/cardiomoon/editData
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-editdata-feedstock/blob/main/LICENSE.txt)
 
 Summary: An 'RStudio' addin for editing a 'data.frame' or a 'tibble'. You can delete, add or update a 'data.frame' without coding. You can get resultant data as a 'data.frame'. In the package, modularized 'shiny' app codes are provided. These modules are intended for reuse across applications.
 
